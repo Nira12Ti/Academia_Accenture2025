@@ -1,0 +1,23 @@
+{
+  "name": "desafio-tecnico-cypress",
+  "version": "1.0.0",
+  "description": "Desafio Técnico Cypress - Automação Web Academia Accenture 2025",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "test:headed": "cypress run --headed",
+    "cy:open": "cypress open",
+    "cy:run": "cypress run --spec 'cypress/e2e/features/**/*.feature'",
+    "test:chrome": "cypress run --browser chrome",
+    "test:firefox": "cypress run --browser firefox"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^22.2.0",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.5",
+    "cypress": "^14.5.4"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "validUser": {
+    "firstName": "Maria",
+    "lastName": "Santos",
+    "email": "maria.santos@teste.com",
+    "age": 25,
+    "salary": 4500,
+    "department": "Engineering"
+  },
+  "invalidUser": {
+    "firstName": "",
+    "lastName": "",
+    "email": "email-invalido",
+    "age": "abc",
+    "salary": "xyz",
+    "department": ""
+  }
+}
