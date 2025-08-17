@@ -161,4 +161,4 @@ O Cypress gera automaticamente:
 
 ---
 
-**Desenvolvido para o Desafio Técnico - Academia Accenture 2025** 🚀
+**Desenvolvido por Nira Santos para o Desafio Técnico - Academia Accenture 2025** 🚀
